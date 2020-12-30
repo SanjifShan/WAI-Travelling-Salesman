@@ -1,7 +1,9 @@
 # WAI-travelling-salesman-genetic-alg
 Visualising the TSM problem in the context of local pubs.
 
-# Genetic_algorithm
+![](visualisation.gif)
+
+# gen_alg
 
 Call this function to run the code
 
